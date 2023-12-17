@@ -1,0 +1,12 @@
+https://acmp.ru/
+ФИО: Альриахи Али
+Логин: @awindyman
+
+Строки
+https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=4&id_topic=39&id_problem=243 
+
+Массивы
+https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=5&id_topic=113&id_problem=691
+
+Циклы
+https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=33&id_problem=192

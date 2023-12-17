@@ -1,0 +1,4 @@
+Trade: {
+carType={PICKUP}
+price={15000}
+}
